@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevin-71
-- 👀 I’m interested in technologies
-- 🌱 I’m currently learning some programming languages such as python and c
+- 👀 I’m interested in tech stuff
+- 🌱 2nd year engineering school
 
 <!---
 kevin-71/kevin-71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
